@@ -19,5 +19,5 @@ The best K value is evaluated using the original scaled Data frame by creating a
 Then the clusters are optimized with Principal Component Analysis. Finding the best K value is applied along with clustering using the K-means model.
 
 
-Finally the weights of each principal component is determined.
+Finally the weights of each principal component are determined and analzyed. 
 
